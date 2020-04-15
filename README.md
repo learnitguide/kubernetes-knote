@@ -4,9 +4,13 @@ We can deploy this application in kubernetes cluster using kubectl commands or u
 
 Recommended Documents for references.
 Introduction to Kubernetes - https://www.learnitguide.net/2018/08/what-is-kubernetes-learn-kubernetes.html
+
 Setting up Kubernetes Cluster on CentOS / RedHat - https://www.learnitguide.net/2018/08/install-and-configure-kubernetes-cluster.html
+
 Setting up Kubernetes Cluster on Ubuntu - https://www.learnitguide.net/2020/01/how-to-install-kubernetes-on-ubuntu.html
+
 Write your First Yaml File to deploy application - https://www.learnitguide.net/2018/08/create-kubernetes-yaml-for-deployment.html
+
 
 Who we are?
 
