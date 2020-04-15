@@ -2,7 +2,8 @@ This is a simple kubernetes-based microservices application that will help you t
 
 We can deploy this application in kubernetes cluster using kubectl commands or using YAML configuration files.
 
-Recommended Documents for references.
+Recommended Documents for references:-
+
 Introduction to Kubernetes - https://www.learnitguide.net/2018/08/what-is-kubernetes-learn-kubernetes.html
 
 Setting up Kubernetes Cluster on CentOS / RedHat - https://www.learnitguide.net/2018/08/install-and-configure-kubernetes-cluster.html
