@@ -2,7 +2,11 @@ This is a simple kubernetes-based microservices application that will help you t
 
 We can deploy this application in working kubernetes cluster using kubectl commands or using YAML configuration files.
 
+Frontend:
+
 kubectl apply -f knote.yaml
+
+Backend:
 
 kubectl apply -f mongo.yaml
 
