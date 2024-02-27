@@ -1,0 +1,23 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: sales-dashboard-data
+data:
+  sales.json: |
+    {
+      "total_sales": 100000,
+      "top_selling_products": [
+        {"product": "Product A", "amount": 30000},
+        {"product": "Product B", "amount": 25000},
+        {"product": "Product C", "amount": 20000},
+        {"product": "Product D", "amount": 15000},
+        {"product": "Product E", "amount": 10000}
+      ],
+      "monthly_sales": [
+        {"month": "January", "amount": 15000},
+        {"month": "February", "amount": 18000},
+        {"month": "March", "amount": 20000},
+        {"month": "April", "amount": 22000},
+        {"month": "May", "amount": 25000}
+      ]
+    }
